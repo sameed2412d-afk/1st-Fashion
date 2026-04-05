@@ -6,3 +6,6 @@ The website displays various clothing collections and gift cards using attractiv
 Some features and functions are still under development, as the project is in a partial completion stage. However, the core design, structure, and user experience are complete, making it a strong foundation for future expansion.
 
 Overall, the website provides a stylish, user-friendly, and visually appealing platform for a fashion brand while allowing room for further functionality and improvements.
+
+#Live site.
+github.com/sameed2412d-afk/1st-Fashion
