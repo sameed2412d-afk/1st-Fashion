@@ -8,4 +8,4 @@ Some features and functions are still under development, as the project is in a 
 Overall, the website provides a stylish, user-friendly, and visually appealing platform for a fashion brand while allowing room for further functionality and improvements.
 
 #Live site.
-github.com/sameed2412d-afk/1st-Fashion
+https://sameed2412d-afk.github.io/1st-Fashion/
